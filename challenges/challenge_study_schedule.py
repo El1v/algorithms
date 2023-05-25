@@ -11,6 +11,3 @@ def study_schedule(permanence_period, target_time):
             students += 1
 
     return students
-
-# link de apoio
-# https://pt.stackoverflow.com/questions/341085/como-validar-se-um-valor-%C3%A9-uma-tupla-possuindo-uma-string-e-um-inteiro
