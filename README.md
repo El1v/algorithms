@@ -1,13 +1,68 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Algorithms
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Contexto
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Este projeto trata-se de resolver problemas e otimizar algoritmos desenvolvendo a capacidade de implementar soluções para os mais diversos problemas do dia a dia!
+
+## Técnologias usadas
+
+Aplicação:
+
+> Desenvolvido usando: Python, Algorithms
+
+## Habilidades
+
+Adquiri essas habilidades ao desenvolver esse projeto:
+
+- Lógica;
+
+- Capacidade de interpretação de problemas;
+
+- Capacidade de interpretação de um código legado;
+
+- Capacidade de otimizar a resolução de problemas;
+
+- Resolver problemas/Otimizar algoritmos sob pressão.
+
+## Instalando Dependências
+
+- clone o projeto:
+
+  ```bash
+  git clone git@github.com:El1v/algorithms.git
+  ```
+
+> Aplicação
+
+
+1. **Entre no diretório**
+
+   ```bash
+   cd algorithms
+   ```
+
+2. **Criar o ambiente virtual**
+
+   ```bash
+   python3 -m venv .venv
+   ```
+
+3. **Ativar o ambiente virtual**
+
+   ```bash
+   source .venv/bin/activate
+   ```
+
+4. **Instalar as dependências no ambiente virtual**
+
+   ```bash
+   python3 -m pip install -r dev-requirements.txt
+   ```
+
+## Executando Testes
+
+- Para rodar todos os Testes:
+
+  ```bash
+  python3 -m pytest
+  ```
